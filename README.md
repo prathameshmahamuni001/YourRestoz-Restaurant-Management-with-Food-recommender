@@ -25,16 +25,30 @@ Explore opportunities for further enhancements, such as leveraging collected dat
 - **Database:** MySQL
 - **Machine Learning:** Python (scikit-learn, TensorFlow, etc.)
 - **Payment Integration:** Razorpay SDK
-- **APIs:** UPI
+- **APIs:** UPI & OpenAI
 
 ## Getting Started
-To deploy YourRestosz locally or on a server, follow these steps:
-1. Clone the repository from GitHub.
-2. Set up the MySQL database and import the provided database schema.
-3. Configure the database connection settings in the PHP files.
-4. Set up the ML model for the Food and Diet Recommendation System and integrate it with the backend.
-5. Install and configure the Razorpay SDK for payment integration.
-6. Run the PHP server and access the application through your web browser.
+Setup Project Locally
+Clone Repository:
+Clone the YourRestosz repository from GitHub to your local machine.
+
+Install XAMPP:
+Download and install XAMPP, which includes Apache, MySQL, PHP, and Perl, to set up a local development environment.
+
+Configure API Keys:
+Obtain API keys for services such as ChatGPT, Razorpay, etc., and configure them in the appropriate files within the project.
+
+Run with XAMPP:
+Start XAMPP and ensure that Apache and MySQL services are running.
+
+Setup Database:
+Import the provided MySQL database schema into your local MySQL instance.
+
+Start Server:
+Navigate to the project directory and start the PHP server.
+
+Access Locally:
+Open your web browser and navigate to localhost or the specified port to access YourRestosz locally.
 
 ## Contributors
 - [Prathamesh Mahamuni]([link-to-your-profile](https://www.linkedin.com/in/prathameshmahamuni/)) - Project Lead & Machine Learning Engineer
