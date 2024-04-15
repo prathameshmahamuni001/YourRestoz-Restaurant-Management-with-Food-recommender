@@ -51,7 +51,7 @@ Access Locally:
 Open your web browser and navigate to localhost or the specified port to access YourRestosz locally.
 
 ## Contributors
-- [Prathamesh Mahamuni]([link-to-your-profile](https://www.linkedin.com/in/prathameshmahamuni/)) - Project Lead & Machine Learning Engineer
-- [Shudhanshu Prasad]([link-to-contributor-profile](https://www.linkedin.com/in/shudhanshu-prasad/)) - Backend Developer & Quality Assurance Engineer
-- [Pranav Rajeevan]([link-to-contributor-profile](https://www.linkedin.com/in/pranav-rajeevan/)) - Frontend Developer & UI/UX Designer
-- [Prajakta Pawar]([link-to-contributor-profile](https://www.linkedin.com/in/prajakta--pawar/)) - UI designer & Content Writer
+- [Prathamesh Mahamuni](https://www.linkedin.com/in/prathameshmahamuni/) - Project Lead & Machine Learning Engineer
+- [Shudhanshu Prasad](https://www.linkedin.com/in/shudhanshu-prasad/) - Backend Developer & Quality Assurance Engineer
+- [Pranav Rajeevan](https://www.linkedin.com/in/pranav-rajeevan/) - Frontend Developer & UI/UX Designer
+- [Prajakta Pawar](https://www.linkedin.com/in/prajakta--pawar/) - UI designer & Content Writer
